@@ -15,6 +15,7 @@
                 "glfw3dll",
                 "freeglut.dll",
                 "opengl32.dll",
+                "glu32.dll",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
